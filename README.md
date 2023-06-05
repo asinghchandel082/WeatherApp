@@ -53,7 +53,7 @@ python manage.py runserver
 # Screenshots of the Project
 <p align="center">
   <img width="660" height="300" src="static/ss/Screenshot 2023-06-05 232144.png">
-  <img width="660" height="300" src="static/ss/b.png">
+  <img width="660" height="300" src="static/ss/Screenshot 2023-06-05 232222.png">
 </p>
 
 
